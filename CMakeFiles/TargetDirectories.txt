@@ -1,0 +1,3 @@
+/home/cheng10051/photo/CMakeFiles/edit_cache.dir
+/home/cheng10051/photo/CMakeFiles/rebuild_cache.dir
+/home/cheng10051/photo/CMakeFiles/photo.dir
